@@ -1,0 +1,13 @@
+{
+    "keys": [
+        {
+            "crv": "P-256",
+            "ext": true,
+            "key_ops": ["verify"],
+            "kid": "8VauBq4JdaJMhwyKPMkDpQiWc59rOEtFmM7ZwGYIsM0",
+            "kty": "EC",
+            "x": "cUwj85jaKfK3KqgnHcYADvvFEYEIjcypfmc1KunwEBA",
+            "y": "Z34UQ-ICax_GegpoJ2AP3yyUaDS8K5SzUtJCpzrGFXo"
+        }
+    ]
+}

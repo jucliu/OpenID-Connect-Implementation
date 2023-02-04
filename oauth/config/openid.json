@@ -1,0 +1,7 @@
+{
+    "issuer": "http://localhost:8000",
+    "authorization_endpoint": "http://localhost:8000/authorize",
+    "token_endpoint": "http://localhost:8000/token",
+    "jwks_uri": "http://localhost:8000/jwks.json",
+    "scopes_supported": ["openid"]
+}
